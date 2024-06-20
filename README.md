@@ -39,7 +39,7 @@ API documentation for the [on-my-bookshelf](https://github.com/davkow/on-my-book
 
 * **API tutorial: Get a list of books for a user**
 
-  * [PDF](tutorial_get_a_list_of_books_for_a_user.pd)
+  * [PDF](tutorial_get_a_list_of_books_for_a_user.pdf)
   * [GitHub](https://github.com/davkow/on-my-bookshelf/blob/main/docs/tutorials/search-for-a-user-by-email.md) 
  
   

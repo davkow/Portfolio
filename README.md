@@ -21,7 +21,7 @@ Documents for the first public release of BIG-IP Next. October 2023.
   * [Original documentation location](https://clouddocs.f5.com/bigip-next/20-0-1/install/velos_config_evpa.html)
 
 
-Document for BIG-IP (aka Classic/Core BIG-IP). Each section includes a short video. I researched and wrote the documentation; a colleague created the videos. 2016 (original pubication date).
+Document for BIG-IP (aka Classic/Core BIG-IP). Each section includes a short video. I researched and wrote the documentation; a colleague created the videos. 2016 (original publication date).
 
 *  **BIG-IP Secure IPsec Tunneling: From a Data Center Network to a Microsoft Azure Network**
   

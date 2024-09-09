@@ -28,13 +28,6 @@ Document for BIG-IP (aka Classic/Core BIG-IP). Each section includes a short vid
    * [PDF](bigip_azure_hybrid_cloud_deployment.pdf)
    * [Original documentation location](https://techdocs.f5.com/kb/en-us/products/big-ip_ltm/manuals/product/bigip-azure-hybrid-cloud-deployment-how-to.html)
 
-Rewrite. Document improvement exercise. 2023.
-
-* **How to: Install BIG-IP Next Central Manager on VMWare ESXi**
-  
-  * [PDF](how_to_install_big_ip_next_central_manager_on_vmware.pdf)
-  * [Original version  (Dev Central)](https://community.f5.com/kb/technicalarticles/getting-started-with-big-ip-next-installing-central-manager-on-vmware-esxi/327403) - ***Before*** rewrite
-
 API documentation for the [on-my-bookshelf](https://github.com/davkow/on-my-bookshelf/tree/main) project. (This is a mock API to simulate the REST interface of an imaginary service). **Program**: [Specialization in API documentation](https://www.pce.uw.edu/specializations/api-documentation) (University of Washington - Professional & Continuing Education). Completed: June 2024.
 
 * **API tutorial: Get a list of books for a user**

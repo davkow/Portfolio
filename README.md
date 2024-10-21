@@ -41,4 +41,9 @@ API documentation for the [on-my-bookshelf](https://github.com/davkow/on-my-book
   * [PDF](update_a_user_property.pdf)
   * [GitHub](https://github.com/davkow/on-my-bookshelf/blob/main/docs/api/users-update-a-user-property.md) 
 
+Guest blog post for Tom Johson's blog [I'd Rather Be Writing](https://idratherbewriting.com/). Oct 2024
+
+* **Escaping the Productivity Trap: Experiments with Burkeman's Four Thousand Weeks — guest**
+
+  * [Original location](https://idratherbewriting.com/blog/escape-productivity-trap-david-kowalsky-guest-post)
   

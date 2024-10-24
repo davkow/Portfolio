@@ -2,7 +2,7 @@
 
 ## About me
 
-I’m a technical writer living in Seattle, WA. After I finished a graduate degree in East Asian Studies, I started working for tech companies, first as a software test engineer, and then a technical writer. 
+I’m a technical writer living in Seattle, WA. After I finished a graduate degree in East Asian Studies, I started working for tech companies, first as a software test engineer (8 years), and then a technical writer (10+ years). 
 
 For more about my skills and work history, you can find me on LinkedIn: https://www.linkedin.com/in/davidkowalsky
 

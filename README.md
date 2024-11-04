@@ -43,7 +43,7 @@ API documentation for the [on-my-bookshelf](https://github.com/davkow/on-my-book
 
 Guest blog post for Tom Johson's blog [I'd Rather Be Writing](https://idratherbewriting.com/). Oct 2024
 
-* **Escaping the Productivity Trap: Experiments with Burkeman's Four Thousand Weeks — guest**
+* **Escaping the Productivity Trap: Experiments with Burkeman's Four Thousand Weeks — guest post by David Kowalsky**
 
   * [Original location](https://idratherbewriting.com/blog/escape-productivity-trap-david-kowalsky-guest-post)
   

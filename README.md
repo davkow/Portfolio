@@ -8,7 +8,7 @@ For more about my skills and work history, you can find me on LinkedIn: https://
 
 ## Writing samples
 
-Documents for the first public release of BIG-IP Next. October 2023.
+Documents for the first public release of BIG-IP Next. October 2023
 
 * **How to: Install BIG-IP Next tenant on VELOS**
 
@@ -20,7 +20,7 @@ Documents for the first public release of BIG-IP Next. October 2023.
   * [PDF](how_to_configure_fastl4_epva_settings.pdf)
   * [Original documentation location](https://clouddocs.f5.com/bigip-next/20-0-1/install/velos_config_evpa.html)
 
-Rewrite. Document improvement exercise. 2023.
+Rewrite. Document improvement exercise. 2023
 
 * **How to: Install BIG-IP Next Central Manager on VMWare ESXi**
 
@@ -28,7 +28,7 @@ Rewrite. Document improvement exercise. 2023.
   * [Original version  (Dev Central)](https://community.f5.com/kb/technicalarticles/getting-started-with-big-ip-next-installing-central-manager-on-vmware-esxi/327403) - ***Before*** rewrite
 
 
-API documentation for the [on-my-bookshelf](https://github.com/davkow/on-my-bookshelf/tree/main) project. (This is a mock API to simulate the REST interface of an imaginary service). **Program**: [Specialization in API documentation](https://www.pce.uw.edu/specializations/api-documentation) (University of Washington - Professional & Continuing Education). Completed: June 2024.
+API documentation for the [on-my-bookshelf](https://github.com/davkow/on-my-bookshelf/tree/main) project. (This is a mock API to simulate the REST interface of an imaginary service). **Program**: [Specialization in API documentation](https://www.pce.uw.edu/specializations/api-documentation) (University of Washington - Professional & Continuing Education). Completed: June 2024
 
 * **API tutorial: Get a list of books for a user**
 

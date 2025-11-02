@@ -8,24 +8,31 @@ For more about my skills and work history, you can find me on LinkedIn: https://
 
 ## Writing samples
 
-Documents for the first public release of BIG-IP Next. October 2023
+Document sample: Amazon Workforce Planning User Guide. November 2025
+
+* **Plan Segmentation**
+
+  * [PDF](wfp_plan_seg.pdf)
+
+
+Documents for the F5 first public release of BIG-IP Next. October 2023
 
 * **How to: Install BIG-IP Next tenant on VELOS**
 
   * [PDF](how_to_install_big_ip_next_tenant.pdf)
-  * [Original documentation location](https://clouddocs.f5.com/bigip-next/20-0-1/install/velos_install_next_tenant.html)
+  * [Published version](https://web.archive.org/web/20241013072931/https://clouddocs.f5.com/bigip-next/20-0-1/install/velos_install_next_tenant.html)
 
 * **How to: Configure FastL4 ePVA settings for deployment through BIG-IP Next Central Manager**
 
   * [PDF](how_to_configure_fastl4_epva_settings.pdf)
-  * [Original documentation location](https://clouddocs.f5.com/bigip-next/20-0-1/install/velos_config_evpa.html)
+  * [Published version](https://web.archive.org/web/20241013072836/https://clouddocs.f5.com/bigip-next/20-0-1/install/velos_config_evpa.html)
 
 Rewrite. Document improvement exercise. 2023
 
 * **How to: Install BIG-IP Next Central Manager on VMWare ESXi**
 
   * [GitHub](how_to_install_big_ip_next_cm_on_vmware_esxi.md)
-  * [Original version  (Dev Central)](https://community.f5.com/kb/technicalarticles/getting-started-with-big-ip-next-installing-central-manager-on-vmware-esxi/327403) - ***Before*** rewrite
+  * [Original version  (Dev Central)](https://web.archive.org/web/20250808194816/https://community.f5.com/kb/technicalarticles/getting-started-with-big-ip-next-installing-central-manager-on-vmware-esxi/327403) - ***Before*** rewrite
 
 
 API documentation for the [on-my-bookshelf](https://github.com/davkow/on-my-bookshelf/tree/main) project. (This is a mock API to simulate the REST interface of an imaginary service). **Program**: [Specialization in API documentation](https://www.pce.uw.edu/specializations/api-documentation) (University of Washington - Professional & Continuing Education). Completed: June 2024

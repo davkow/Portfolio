@@ -10,9 +10,9 @@ For more about my skills and work history, you can find me on LinkedIn: https://
 
 Document sample: Amazon Workforce Planning User Guide. November 2025
 
-* **Plan Segmentation**
+* **Plan Builder**
 
-  * [PDF](wfp_plan_seg.pdf)
+  * [PDF](workforce_planning_plan_builder.pdf)
 
 
 Documents for the F5 first public release of BIG-IP Next. October 2023

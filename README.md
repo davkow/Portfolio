@@ -26,7 +26,7 @@ For more about my skills and work history, you can find me on LinkedIn: https://
 
 - [Productivity Experiments and Advice: Continuing the Journey with Slow Productivity and Meditations for Mortals](https://idratherbewriting.com/blog/kowalsky-productivity-experiments-advice)
 
-### API documentation - 2024 (before AI made this way easier to create)
+### API documentation - 2024
 
 - [on-my-bookshelf](https://github.com/davkow/on-my-bookshelf/tree/main) project. A mock API to simulate the REST interface of an imaginary service. Class: [Specialization in API documentation](https://www.pce.uw.edu/specializations/api-documentation) 
 

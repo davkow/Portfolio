@@ -10,7 +10,7 @@ For more about my skills and work history, you can find me on LinkedIn: https://
 
 ### Microsoft Quantum - 2026
 
-- QuNorth Operator Azure and Quantum OS setup guide. [Part 3: Create a Provider Account and Configure Log Analytics](qunorth_operator_azure_and_quantum_os_setup_guide_part_3.pdf)
+- QuNorth Operator Azure and Quantum OS setup guide. Starts on the third page: [Part 3: Create a Provider Account and Configure Log Analytics](qunorth_operator_azure_and_quantum_os_setup_guide_part_3.pdf)
 
 - [Access and manage workspaces](access_and_manage_workspaces.pdf)
 

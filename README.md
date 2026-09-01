@@ -22,7 +22,7 @@ For more about my skills and work history, you can find me on LinkedIn: https://
 
 ### Guest blog posts for Tom Johnson's blog [I'd Rather Be Writing](https://idratherbewriting.com/) - 2024 & 2025
 
-- [Escaping the Productivity Trap: Experiments with Burkeman's Four Thousand Week](https://idratherbewriting.com/blogescape-productivity-trap-david-kowalsky-guest-post)
+- [Escaping the Productivity Trap: Experiments with Burkeman's Four Thousand Week](https://idratherbewriting.com/blog/escape-productivity-trap-david-kowalsky-guest-post)
 
 - [Productivity Experiments and Advice: Continuing the Journey with Slow Productivity and Meditations for Mortals](https://idratherbewriting.com/blog/kowalsky-productivity-experiments-advice)
 

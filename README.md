@@ -30,7 +30,7 @@ Documentation for Workforce Planning, an internal enterprise tool used to model,
 
 - [How to: Install BIG-IP Next Central Manager on VMware ESXi](how_to_install_big_ip_next_central_manager_on_vmware.pdf)
 
-  Intallation procedure in a How to format for BIG-IP Next, F5's application delivery and security platform (discontinued in 2025).
+  Installation procedure in a How to format for BIG-IP Next, F5's application delivery and security platform (discontinued in 2025).
 
 
 ### API documentation - 2024
@@ -42,7 +42,7 @@ Documentation for Workforce Planning, an internal enterprise tool used to model,
 
 ### Guest blog posts for Tom Johnson's blog [I'd Rather Be Writing](https://idratherbewriting.com/) - 2024 & 2025
 
-- [Escaping the Productivity Trap: Experiments with Burkeman's Four Thousand Week](https://idratherbewriting.com/blog/escape-productivity-trap-david-kowalsky-guest-post)
+- [Escaping the Productivity Trap: Experiments with Burkeman's Four Thousand Weeks](https://idratherbewriting.com/blog/escape-productivity-trap-david-kowalsky-guest-post)
 
 - [Productivity Experiments and Advice: Continuing the Journey with Slow Productivity and Meditations for Mortals](https://idratherbewriting.com/blog/kowalsky-productivity-experiments-advice)
 

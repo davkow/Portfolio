@@ -8,15 +8,15 @@ For more about my skills and work history, you can find me on LinkedIn: https://
 
 ## Writing samples
 
-### Microsoft Quantum - 2026
+### Microsoft Quantum - 2026 
 
 - QuNorth Operator Azure and Quantum OS setup guide - [Part 3: Create a Provider Account and Configure Log Analytics](qunorth_operator_azure_and_quantum_os_setup_guide_part_3.pdf)
 
-  Starts on page 3. Part of a setup guide covering the creation and configuration of Azure resources used to operate Magne and Quantum OS.
+  Starts on page 3. Part of a setup guide covering the creation and configuration of Azure resources used to operate Magne and Quantum OS. 
 
 - [Access and manage workspaces](access_and_manage_workspaces.pdf)
 
-  Article from the user guide for the Quantum OS portal, a web-based interface that provides a centralized experience for interacting with Azure Quantum workloads.
+  Article from the user guide for the Quantum OS, a new portal providing a centralized experience for interacting with Azure Quantum workloads.
 
 ### Amazon Workforce Planning - 2025
 

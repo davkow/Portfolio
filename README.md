@@ -28,9 +28,11 @@ Documentation for Workforce Planning, an internal enterprise tool used to model,
 
 ### F5 - 2023
 
-- [How to: Install BIG-IP Next Central Manager on VMware ESXi](how_to_install_big_ip_next_central_manager_on_vmware.pdf)
+Installation procedures in a How to format for BIG-IP Next, F5's planned next-generation successor to BIG-IP (development discontinued in 2025).
 
-  Installation procedure in a How to format for BIG-IP Next, F5's application delivery and security platform (discontinued in 2025).
+- [How to: Install BIG-IP Next tenant on VELOS](how_to_install_big_ip_next_tenant.pdf)
+
+- [How to: Install BIG-IP Next Central Manager on VMware ESXi](how_to_install_big_ip_next_central_manager_on_vmware.pdf)
 
 
 ### API documentation - 2024

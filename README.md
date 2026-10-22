@@ -22,7 +22,7 @@ For more about my skills and work history, you can find me on LinkedIn: https://
 
 Documentation for Workforce Planning, an internal enterprise tool used to model, plan, and evaluate workforce decisions in real time.
 
-- Workforce Planning User Guide - [Plan Builder section](workforce_planning_user_guide_plan_builder.pdf)
+- Workforce Planning User Guide - [Plan segmentation section](wfp_ug_plan_segmentation.pdf)
 
 - [Wiki: Amazon Workforce Planning](wiki_amazon_workforce_planning.pdf)
 
